@@ -1,0 +1,5 @@
+# Visas
+
+.l()l RN \l,()l“l‘l(‘llïl, Dlf l..\ l{l.|’l 'lil,l()l'lï lSl..\\llQl’]-, DIC .\l_\lïl<i"l' \Ë\‘ll€ l5 Juillet 2mn I051) souscription du contrat et renouvelée lors de la reconduction a l"échéance ou de la remise en vigueur après suspension Dans le cas des polices dabonnemént, une attestation devra étre délivrée pour chaque expédition lors de chaque déclaration daliment Article l l; en cas de perte ou de vol d'un documentjustificatifdassurtance. Lassureur délivré un duplicata sur simple demande de Lassirré ou de son mandataire Article l2:
+le Secrétaire Cieneral du h-iinistre du (Ïommerce, de l’Artisanat et du Tourismeg le Secrétaire Général du Ministre des Finances sont chargés chacun en ce qui le concerne, de Lapplication du présent arrêté qui sera publié ou journal OlilClCl de la République Islamique de Matiritzinie ï i Ï: :_ îstèiregileisﬁîtïlîiies ide '_l’.lud llsitiïigeæi M 1;
+Actes Réglementaires gärrêté n“ R du [0 mars 2003 portant organisation ct gestion du système d'informations géologiques et minières lSlGENl).
