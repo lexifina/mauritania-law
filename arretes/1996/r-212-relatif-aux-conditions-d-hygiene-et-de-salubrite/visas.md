@@ -1,0 +1,3 @@
+# Visas
+
+MAU 105 (8) -ARRETE CONJOINT R 0212 DU 09 JUIN 1996 RELATIF AUX CONDITIONS D’HYGIENE ET DE SALUBRITE APPLICABLES A BORD DES NAVIRES DE PECHE ET DES NAVIRES-USINES ARTICLE Ier : En application de l’alinéa 2 de l’article 4 du décret 94-030 du 8 Mars 1994, le présent arrêté a pour objet de définir les conditions spécifiques d’hygiène applicables à bord des navires de pêche et des navires-usine, ainsi que les procédures et conditions d’agrément de ces navires aux fins de la production ou du traitement des produits de la pêche sauf les pirogues de pêche artisanale qui seront régies par un arrêté spécifique.
