@@ -1,0 +1,9 @@
+# Visas
+
+JOURSNAL OFF/ICIEL ns lLA REPUBUQUE ISLAMIQUE DE MAURITANIE ••,l _(••I~::~~il~~liil:;;lf,;;i:ii!i!i!!!jj~i,:ii:!l.,!~11ii! SOMMAIRE Accord de Pret et accords de projet relatifs au Programme de Developpement Urbains .....
+Loi n" 2002 - 02 portant Convention Miniere type Loi n" 2002 - 03 portant Code des investissements 20janvier 2002 31 octobre 200 1 20janvier 2002 .IOliRNAL OFFICIEL DE LA REl'lIBLI(.)1JL ISLAMIQlJE Dl MAURITANII, 1:\ AVril :!OO:! IOlO Loi nO 2002/02 du 20 Janvier 2002 portant convention mlnlere type L'Assemblee Nationale et le senat ont adopte, Le President de la Republique promulgue la Loi dont la teneur suit :
+Article Ier - Les permis de recherche prevus par la loi n° 99.013 du 23 j uin 1999 portant code minier sont assortis d'une convention miniere type conclue entre d'une part, Ie demandeur du permis de recherche et. d'autre part, la Republique Islamique de Mauritanie representee par Ie Ministre cha~ge des Mines.
+Les tenneset conditions de la convention miniere type se rapportant au permis de recherche s'appliquent au permis .d'exploitation eventuellernent accorde au titulaire, sur tout ou partie de son permis de recherche initial.
+Le decret pris en Conseil des Ministres octroyant le titre minier, conformement aux dispositions du decret sur les titres miniers.
+conferera approbation de la convention miniere visee it l'alinea premier.
+La convention miniere signee par le demandeur sera deposee en 4 exemplaires it l'Unite du Cadastre minier et fera partie integrante de la demande de permis de recherche telle que visee it I' article 30 du decret portant sur les titres miniers. A I'octroi du permis de recherche, conformement aux articles 29 it 39 du decret portant sur les titres miniers, I'Unite du Cadastre minier remettra au titulaire un exemplaire de la convention miniere dument signee.
