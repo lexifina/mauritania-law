@@ -1,0 +1,6 @@
+# Décret n° 61-065 du 8 avril 1961 pris en application de l’article 14-II de la loi n° 61-016 du 20 janvier 1961 relative au régime des pensions civiles de la Caisse de Retraites de la République Islamique de Mauritanie
+
+- Source : Ministère des Finances, Recueil des textes relatifs à la mission du Ministère (finances.gov.mr), <https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/Textes/PENSIONS/Décret%2061-065%20appl%20loi%2061-016.pdf>
+- Date : 1961-04-08 (date du texte (promulgation/signature), d’après son intitulé ; la date de publication au Journal officiel n’est pas donnée par la source)
+- Couche texte : fournie par l’éditeur sur un document numérisé (non relue)
+- Unités : 2 articles
