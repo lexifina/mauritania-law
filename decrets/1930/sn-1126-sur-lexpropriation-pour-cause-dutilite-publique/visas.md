@@ -1,0 +1,3 @@
+# Visas
+
+Décret du 26 novembre 1930 sur l’expropriation pour cause d’utilité publique et l’occupation temporaire en Afrique occidentale française, modifié par décret du 16 juin 1931 et décret du 20 décembre 1933 SOMMAIRE TITRE I : Cas où l'expropriation peut être prononcée déclaration d'utilité publique. TITRE II : Formalités précédant l'expropriation cession amiable TITRE III : Jugement d'expropriation et fixation des indemnités TITRE IV : Payement de l'indemnité entrée en possession TITRE V : Dispositions exceptionnelles TITRE VI : Occupations temporaires TITRE VII : Indemnité de plus-value TITRE I : CAS OÙ L'EXPROPRIATION PEUT ÊTRE PRONONCÉE DÉCLARATION D'UTILITÉ PUBLIQUE.
