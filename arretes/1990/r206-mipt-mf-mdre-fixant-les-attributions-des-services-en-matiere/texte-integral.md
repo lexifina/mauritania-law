@@ -1,0 +1,24 @@
+# Arrête n° R206/mipt/mf/mdre du 5 novembre 1990 fixant les attributions des services en matière de politique foncière dans le secteur rural
+
+Journal Officiel de la République Islamique de Mauritanie n° 752 Date de promulgation : 05.11.1990 date de publication : 28.11.1990 Décret n° R-206 pp. 599-600 1/2 ARRÊTE N° R206 /MIPT/MF/MDRE FIXANT LES ATTRIBUTIONS DES SERVICES EN MATIERE DE POLITIQUE FONCIERE DANS LE SECTEUR RURAL.
+LE MINISTRE DE L' INTERIEUR, DES POSTES ET TELECOMMUNICATIONS LE MINISTRE DES FINANCES ;
+LE MINISTRE DU DÉVELOPPEMENT RURAL.
+VU le décret N° 157 du 29 Décembre 19811 portant règlement organique relatif aux attributions des Ministres ;
+VU le décret N° 37.90 du 28 Avril 1990 portant nomination de certains membres du Gouvernement ; VU le décret N° 51.90 du 17 Juin 1990 portant nomination de certains membres du Gouvernement ; VU le décret N° 82.89 du 14 Décembre 1989 fixant les attributions du Ministre des l'Intérieur, des Postes et Télécommunications et l'organisation de l'Administration Centrale de son Département ; VU le décret N° 84.89 du 19 Décembre 1989 fixant les attributions du Ministre des Finances et l'organisation de l'Administration Centrale de son Département ;
+VU le décret N° 84.10 du 14 Janvier 1984 fixant les attributions du Ministre du Développement Rural et l'organisation de l'Administration Centrale de son Département ; VU l'arrêté 080 du 27 Janvier 1990 portant désignation d'un réviseur du plan foncier ; VU la note N° 18 du 22 Novembre 1986 du Ministre du Développement Rural créant un bureau des affaires foncières, ARRETE NT ART 1 : La mise en œuvre de la Politique foncière du secteur rural incombe au Réviseur, chargé de mission placé auprès du Ministre de l'Intérieur, des postes et télécommunications, au Bureau des Affaires Foncières du Ministère du développement Rural, à la Direction des Domaines du Ministère des Finances.
+Les attributions respectives. de ces différents services sont fixées ainsi qu'il suit : Le Réviseur a pour attribution l’animation, la coordination de 1a politique Foncière dans le secteur rural, de concert avec la Direction de l'Aménagement du Territoire afin d' en assurer la cohérence avec les orientations ou dispositions établies par les divers instruments d'aménagement du territoire; l'établissement, en dernier ressort, des textes législatifs, réglementaires et techniques. le suivi et le contrôle de la mise en œuvre de la réforme foncière.
+la liaison et l'information du comité interministériel des affaires foncières et de l'après-barrages; la liaison avec les autorités administratives et les collectivités locales ; le suivi et le contrôle de la mise en œuvre de la reforme foncière en liaison avec la Direction de l'Aménagement territoire;
+Le Réviseur, chargé de mission auprès du Ministre de l'Intérieur, est l'autorité déléguée pour assumer ces attributions.
+ART. 3 : Le Bureau des Affaires foncières a pour attributions :
+Journal Officiel de la République Islamique de Mauritanie n° 752 Date de promulgation : 05.11.1990 date de publication : 28.11.1990 Décret n° R-206 pp. 599-600 2/2 la préparation des projets de textes, réglementaires et techniques;
+l'élaboration des plans fonciers, des schémas des structures et des règlements d'occupation de l'espace. I1 exerce le contrôle des activités des prestataires de services en ces domaines ainsi que la réception de leurs travaux;
+la centralisation des documents fonciers qui concourent à la définition de la politique foncière ; l'établissement des règles afférentes à 'la mise en valeur et à son contrôle ; la participation à l'instruction des décisions d'application du décret n° 90.020 du 31 Janvier 1 1990 ; l'appui aux services locaux pour la mise en œuvre et la gestion des plans fonciers et, d'une manière générale, pour l'application de la politique foncière dans le secteur rural; la tenue du Secrétariat des commissions et comités de compétence locale. Le Chef du Bureau des Affaires Foncières du Ministère du Développement Rural est déléguée pour assumer ces attributions.
+ART. 4 : La Direction des Domaines a pour attribution :
+le contrôle technique du plan Foncier ;
+les propositions de fixation, après avis du Ministre chargé du Développement Rural :
+• des redevances, annuelles dues par les bénéficiaires d'autorisation d'exploiter et de concession provisoire ;
+• des conditions financières de cession des terres domaniales ;
+• des modalités de perception des droits d'enregistrement, de timbre et des redevances annuelles ou de cession ;
+l'encaissement des produits du domaine.
+ART: 5 : Les Secrétaires Généraux des Ministères chargés de l'Intérieur, des Finances et du Développement Rural sont chargés, chacun en ce qui le concerne, de l'exécution du présent Arrêté qui sera publié au Journal Officiel./.
+Fait à Nouakchott, le 5 Novembre 1990 Cdt CHEIKH SID'AHMED OULD BABA Lt-C MOHAMED OULD LE KHAL MOHAMEDOU 0/ MICHEL Le Secrétaire Général du MIPT MOHAMED OULD CHEIKH AIDALLAHI
