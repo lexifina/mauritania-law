@@ -1,0 +1,5 @@
+# Visas
+
+REPUBLIQUE ISLAMIQUE DE MAURITANIE PRESIDENCE DE LA REPUBLIQUE Honneur-Fraternite-Justice LOI N° 97-006 ABROGEANT ET REMPLACANT LA LOI N° 75-003 DU 15 JANVIER 1975 PORTANT CODE DE LA CHASSE ET DE LA PROTECTION DE LA NATURE
+- L' Assemblee Nationale et Ie Senat ont adopte ;
+- Le President de la Republlque promolgue la loi dont la teneur suit : TITRE I : DEFINITIONS ET GENERALITES.
