@@ -1,0 +1,4 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie n° 984 Date de promulgation : 17.07.2000 date de publication : 15.10.2000 Décret n° 2000.089 pp. 615-635 1/26 DECRET N° 2000-089 DU 17 JUILLET 2000 ABROGEANT ET REMPLAÇANT LE DECRET N° 90.020 DU 31 JANVIER 1990 PORTANT APPLICATION DE L’ORDONNANCE 83.127 DU 5 JUIN 1983 PORTANT REORGANISATION FONCIERE ET DOMANIALE.
+Chapitre I- Dispositions Générales
