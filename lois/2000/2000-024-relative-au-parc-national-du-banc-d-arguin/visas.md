@@ -1,0 +1,3 @@
+# Visas
+
+REPUBLIQUE ISLAMIQUE DE MAURITANIE Honneur- Fraternite· Justice PREMIER MINISTERE Loi n° 2000/024 relative au Pare National du Bane d'Arguin Promulguee Ie 19 janvier 2000 REPUBLIQU E ISLAM IQUE DE MAURITANIE Honncur - Fratornite - Justico PREMIER MINISTERE Loi nO2000/024 rela ive au Parc National du Bane d'Arguin CHAPITRE I - PRINCIPES GENERAUX Articlo 1M / Sans prejudice des dispositions leglslatives generales applicables, ta presente loi a pour objet de definir tes regles relatives a l'arnenaqernent, a la conserva tion, a la preservation, a la protec ion et a la surveillance du Pare National du Bane d'Arguin, tel que defini aI'article 2 ci-apres.
