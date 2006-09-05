@@ -1,0 +1,3 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie n°1129 Date de publication : 30/10/ 2006 Date de promulgation : 05/09/ 2006 Arrêté n° 2250 pp.657 1/3 ARRETE N° 2250 DU 05 SEPTEMBRE 2006 FIXANT LES REGLES DE FONCTIONNEMENT DU COMPTE D'AFFECTATION SPECIALE DENOMME «COMPTE SURVEILLANCE DES PECHES».
