@@ -1,0 +1,5 @@
+# Visas
+
+Jvumul OfJir,;jt:1 de lu IUpublique lslam;que de Mauritanie IS Avril 2008 , aux disposition de la loi 0°2000-25 du 24 janvier 2000 portant code des peches Maritimes modifie par l' ordonnance 200071022 du 09 Avril 2007, affecte it I'tmeressement des saistssants et intervenants et aux fonds de promotion de la peche et de la surveillance maritime au 3Cn5 de I'urticlc 20 du dccret n089/tOO du 26 juillet 1989 modifie par le decret n096 033 du 22 avril 1996 est reparti ainsi qu'il suit:
+% it Pinteressement des fonctionnaires et agents de constatation et de repression des infractions au code des peches (5% aux saisissants et 9% aux intervenants) 20% au fonds de promotion de la peche et de la surveillance Maritime 4% pour I'equipement et Ie fonctionnement du Ministere des peches 10% aan fondsspecial de lutte centre la fraude et la peche.illegale.
+AJriti DO 2401 du 10 octobre 2007 abrogeant et remp~t l'arret6 n0160 du Mai relatif aux modalites d'interessement des saisissants et iiltervenant en matiere de repression des infractions au code des peches maritimes et la repartition des fends de promotion de la peche et de la surveillance maritime.
