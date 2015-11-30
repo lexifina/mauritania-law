@@ -1,0 +1,3 @@
+# Article 216 quinquies
+(Loi n°2015-
+32) Sous réserve de l'article 216 ter, les associés sont libres de fixer les modalités d'intervention des apports en industrie dans la constitution de la société. Ils déterminent les droits et les obligations auxquels donne lieu l'apport en industrie. Les clauses sur l'apport en industrie sont obligatoires dans les rapports entre associés ; elles sont toutefois inopposables aux tiers. Elles incluent l'obligation pour les associés de ne pas faire concurrence à la société directement ou indirectement et celle de ne pas percevoir personnellement de gains en contrepartie de l'exercice de l'activité qu'ils apportent.

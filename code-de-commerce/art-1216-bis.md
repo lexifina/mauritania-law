@@ -1,0 +1,2 @@
+# Article 1216 bis
+(Loi n°2015-32) Est considéré comme prix illicite :  le prix supérieur au prix plafond fixé par l'autorité administrative compétente ;  le prix inférieur au prix planché fixé par l'autorité compétente ;  le prix obtenu en fournissant à l'autorité administrative compétente, de fausses informations ou en maintenant à leur niveau antérieur des éléments de prix de revient qui ont fait l'objet d'une baisse si ces éléments ont servi de base d'homologation.

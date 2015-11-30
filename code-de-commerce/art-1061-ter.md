@@ -1,0 +1,2 @@
+# Article 1061 ter
+(Loi n°2015-32) La banque ouvrant le crédit est tenue d'exécuter les clauses de paiement, d'acceptation, d'escompte ou de négociation, prévues dans l'ouverture de crédit, à condition que les documents soient conformes aux données et conditions du crédit ouvert. Art.1061 quater.- (Loi n°2015-32) Le crédit documentaire peut être révocable ou irrévocable. Sauf stipulation contraire expresse, tout crédit est considéré comme irrévocable.

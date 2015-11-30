@@ -1,0 +1,2 @@
+# Article 1316 ter
+(Loi n°2015-32) En cas de redressement judiciaire, le juge-commissaire, sur requête du syndic, décide si le débiteur ou les dirigeants de la personne morale participeront à la continuation de l'exploitation et fixe, dans ce cas, les conditions dans lesquelles ils seront rémunérés. En cas de liquidation des biens, le débiteur ou les dirigeants de la personne morale ne peuvent être employés pour faciliter la gestion qu'avec l'autorisation de la juridiction compétente et dans les conditions prévues par celle-ci.

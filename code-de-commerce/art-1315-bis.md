@@ -1,0 +1,4 @@
+# Article 1315 bis
+(Loi n°2015-
+32) Le concordat est annulé en cas de dol résultant d'une dissimulation d'actif ou d'une exagération du passif si le dol a été découvert après l'homologation du concordat préventif ou du concordat de redressement. Cette annulation libère, de plein droit, les cautions garantissant le concordat sauf si celles-ci avaient connaissance du dol lors de leurs engagements. L'action en nullité n'appartient qu'au seul représentant du Ministère Public qui apprécie l'opportunité de l'exercer ou non. Elle ne peut être exercée que dans le délai d'un an suivant la découverte du dol.
+La juridiction compétente apprécie souverainement l'opportunité de prononcer ou non l'annulation du concordat en fonction de l'intérêt collectif des créanciers et des travailleurs.

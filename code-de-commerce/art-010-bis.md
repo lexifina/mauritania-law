@@ -1,0 +1,2 @@
+# Article 10 bis
+(Loi n°2015-32) Est commerçant ambulant le marchand détaillant qui n'exerce pas à demeure et se déplace d'un endroit à un autre, pour une durée variable, afin d'y exercer un commerce. Le commerçant ambulant est dispensé de la tenue des livres comptables et de l'immatriculation au registre du commerce prévus aux articles 21 à 80 du présent Code. Toutefois, il est tenu d'obtenir, dans la commune de sa résidence, un numéro d'identification de commerçant ambulant.

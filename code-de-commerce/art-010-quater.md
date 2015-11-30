@@ -1,0 +1,2 @@
+# Article 10 quater
+(Loi n°2015-32) Il est tenu à cet effet dans chaque commune un registre du commerce ambulant. Le secrétaire communal est chargé de tenir ce registre. Nul ne peut exercer le commerce ambulant s'il n'est détenteur du numéro d'identification de commerçant ambulant. Le commerce ambulant des produits artisanaux, agricoles et d'élevage n'est pas soumis aux dispositions des alinéas ci-dessus. Le Ministre chargé du commerce détermine par arrêté la liste des produits interdits au commerce ambulant.

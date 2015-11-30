@@ -1,0 +1,2 @@
+# Article 77 bis
+(Loi n°2015-32) Les dispositions de la présente sous-section s'appliquent aux formalités ou demandes prévues par le présent Code ou par toute autre règlementation. Ces demandes ou formalités peuvent être effectuées par voie électronique, dès lors qu'elles peuvent être transmises et reçues par cette voie par leurs destinataires. Toutefois, les dispositions du présent article ne s'appliquent pas aux échanges ou transmissions électroniques qui font l'objet de législations particulières.

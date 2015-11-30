@@ -1,0 +1,2 @@
+# Article 343 ter
+(Loi n°2015-32) Le capital de cette société est librement fixé dans les statuts. Il est divisé en parts sociales de valeur égale. Les parts sociales doivent être souscrites en totalité par l'associé et intégralement libérées. Les statuts doivent contenir l'évaluation de chaque apport en nature. Il y est procédé au vu d'un rapport annexé aux statuts établi sous la responsabilité de l'associé unique.

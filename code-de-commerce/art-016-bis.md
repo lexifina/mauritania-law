@@ -1,0 +1,2 @@
+# Article 16 bis
+(Loi n°2015-32) Nul ne peut exercer une activité commerciale lorsqu'il est soumis à un statut particulier établissant une incompatibilité. Il n'y a pas d'incompatibilité sans texte. Il appartient à celui qui invoque l'incompatibilité d'en apporter la justification. Les actes accomplis par une personne en situation d'incompatibilité restent valables à l'égard des tiers de bonne foi. Ceux-ci peuvent se prévaloir des actes accomplis par une personne en situation d'incompatibilité, mais celle-ci ne peut s'en prévaloir.

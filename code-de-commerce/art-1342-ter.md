@@ -1,0 +1,2 @@
+# Article 1342 ter
+(Loi n°2015-32) Les tiers, créanciers ou non, qui, par leurs agissements fautifs, ont contribué à retarder la cessation des paiements ou à diminuer l'actif ou à aggraver le passif du débiteur peuvent être condamnés à réparer le préjudice subi par la masse sur action du syndic agissant dans l'intérêt collectif des créanciers. La juridiction compétente choisit, pour la réparation du préjudice, la solution la plus appropriée, soit le paiement de dommages-intérêts, soit la déchéance de leurs sûretés pour les créanciers titulaires de telles garanties.

@@ -1,0 +1,2 @@
+# Article 1061 bis
+(Loi n°2015-32) Le crédit documentaire est un crédit ouvert par une banque à la demande d'un donneur d'ordre en faveur d'un correspondant de celui-ci et garanti par la possession des documents représentatifs de marchandises en cours de transport ou destinées à être transportées. Le crédit documentaire est indépendant du contrat de vente qui peut en former la base et auquel les banques restent étrangères.
