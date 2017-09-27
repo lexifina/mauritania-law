@@ -1,0 +1,8 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie 27 Septembre 2017 1396 Coopération et du Suivi-Evaluation qui assure l’exécution des tâches de pilotage du SNIE en s’appuyant sur une équipe de cadres de la Direction dont :
+- Un responsable de l’exploitation et de la publication des statistiques d’élevage ;
+- Un responsable de suivi des indicateurs ;
+- Un responsable informatique ;
+- Un personnel d’Appui.
+L’unité de coordination peut faire appel à toute expertise jugée utile pour accomplir ses missions et conduire ses activités.
