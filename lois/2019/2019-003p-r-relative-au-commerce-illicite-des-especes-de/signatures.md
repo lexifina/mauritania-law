@@ -1,0 +1,11 @@
+# Signatures
+
+Fait à Nouakchott, le 22 Janvier 2019 Mohamed OULD ABDEL AZIZ Le Premier Ministre Mohamed Salem Ould Bechir Le Ministre de l’Environnement et du Développement Durable Amedi Camara --------------------------- Loi n°2019-004 relative à la ratification de la Convention Internationale Contre le Dopage dans le Sport L’Assemblée Nationale a adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
+Article premier : Le Président de la République est autorisé à ratifier la Convention Internationale Contre le Dopage dans le Sport, signée à Paris le 19 Octobre 2005.
+Article 2 : La présente loi sera exécutée comme loi de l’Etat et publiée au Journal Officiel de la République Islamique de Mauritanie.
+Fait à Nouakchott, le 30 Janvier 2019 Mohamed OULD ABDEL AZIZ Le Premier Ministre Mohamed Salem OULD BECHIR La Ministre de la Jeunesse et des Sports Djindah Bal II- DECRETS, ARRETES, DECISIONS, CIRCULAIRES Ministère de la Fonction Publique, du Travail, de l’Emploi et de la Modernisation de l’Administration Actes Réglementaires Décret n° 313-2018 du 06 Décembre fixant les attributions du Ministre de la Fonction Publique, du Travail, de l’Emploi et de la Modernisation de l’Administration et l’organisation de l’administration centrale de son département.
+Article Premier : En application des dispositions du décret n° 075.93 du 6 juin 1993 fixant les conditions d’organisation des administrations centrales et définissant les modalités de gestion et de suivi des structures administratives, le présent décret a pour objet de définir les attributions du Ministre de la Fonction Publique, du Travail, de l’Emploi et de la Modernisation de l’Administration et l’organisation de l’administration centrale de son département.
+Article 2 : Le Ministre de la Fonction Publique, du Travail, de l’Emploi et de la Modernisation de l’Administration a pour mission générale de concevoir, coordonner, suivre et évaluer les politiques nationales en matière de fonction publique, de travail, d’emploi, de sécurité sociale et de modernisation de l’administration.
+A cet effet, il est chargé des questions relatives à :
+l’élaboration et l’application de la politique nationale en matière de
