@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Nouakchott le, Mohamed Ould Abdel Aziz Le Premier Ministre Mohamed Salem Ould Béchir Le Ministre de l'Hydraulique et del' Assainissement Isselmou Ould Sidi El Moctar Ould Lehbib Loi n° 2019-014 autorisant la ratification de l' Acte Additionnel à l' Accord de Coopération Inter - Etats portant sur le développement et l'exploitation des réservoirs du champ Grand - Tortue / Ahmeyim et relatif au régime fiscal et douanier applicable aux sous - traitants, signé le 21 décembre 2018, à Nouakchott entre la République Islamique de Mauritanie et la République du Sénégal L'Assemblée Nationale a adopté;
