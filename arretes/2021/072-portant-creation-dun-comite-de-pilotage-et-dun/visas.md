@@ -1,0 +1,9 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie 15 Août 2021 1491 externe est exercé par les organes publics compétents, dans les conditions fixées par les lois et règlements en vigueur.
+Chapitre V : Dispositions finales Article 22 : Les membres du Conseil d’Administration, du conseil scientifique et le personnel de l’AMAQ – ES ne peuvent participer ni aux délibérations ni à la rédaction de rapports relatifs aux établissements, programmes, aux structures et organismes de recherche auxquels ils sont rattachés.
+Article 23 : Les membres du Conseil d’Administration, du conseil scientifique et le personnel de l’AMAQ – ES sont tenus à l’obligation de réserve et au respect du secret professionnel pour les informations, faits, actes et renseignements dont ils ont connaissance dans l’exercice de leurs fonctions. Tout manquement à cette obligation exposera son auteur aux sanctions prévues par les dispositions législatives et réglementaires en vigueur.
+Article 24 : Sont abrogées et remplacées toutes dispositions antérieures contraires au présent décret, notamment celles du décret n° 2017-093 du 10 Juillet 2017 portant création de l’Autorité Mauritanienne d’Assurance – Qualité de l’Enseignement Supérieur et fixant les règles de son organisation et fonctionnement.
+Article 25 :
+Le Ministre de l’Enseignement Supérieur et de la Recherche Scientifique et le Ministre des Finances, sont chargés, chacun en ce qui le concerne, de l’exécution du présent décret qui sera publié au Journal Officiel de la République Islamique de Mauritanie.
+------------------ Actes Divers Décret n° 2020-147 du 17 novembre 2020, portant nomination de deux fonctionnaires au Ministère de l’Enseignement Supérieur, de la Recherche Scientifique et des Technologies de l’Information et de la Communication
