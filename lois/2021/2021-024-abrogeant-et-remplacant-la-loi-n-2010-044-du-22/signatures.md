@@ -1,0 +1,6 @@
+# Signatures
+
+Fait à Nouakchott, le 29 décembre Mohamed OULD CHEIKH EL GHAZOUANI Le Premier Ministre Mohamed OULD BILAL MESSOUD Le Ministre des Affaires Economiques et de la Promotion des Secteurs Productifs Ousmane Mamoudou Kane II- DECRETS, ARRETES, DECISIONS, CIRCULAIRES PRESIDENCE DE LA REPUBLIQUE Actes Réglementaires Décret n° 175-2021 du 13 décembre 2021 portant création d’un nouveau billet de banque Article Premier: Il est créé un nouveau billet de banque de vingt (20) Ouguiya.
+Article 2 : Le billet de vingt (20) Ouguiya présente les caractéristiques techniques ci – dessous :
+Substrat Polymère Longueur 130 mm Largeur 66 mm Article 3 : Le Ministre en charge des Finances et le Gouverneur de la Banque Centrale de Mauritanie sont chargés, chacun en ce qui le concerne, de l’exécution du présent décret qui sera publié selon la procédure d’urgence et entre en vigueur dès sa date de signature.
+Le Président de la République Mohamed OULD CHEIKH EL GHAZOUANI Le Premier Ministre Mohamed OULD BILAL MESSOUD Ministre des Finances Mohamed Lemine DHEHBY ----------------- Décret n° 177-2021 du 22 décembre portant rattachement de l’Inspection Générale de l’Etat à la Présidence de la République et nomination d’un Inspecteur Général Article Premier: L’Inspection Générale de l’Etat est rattachée à la Présidence de la République.
