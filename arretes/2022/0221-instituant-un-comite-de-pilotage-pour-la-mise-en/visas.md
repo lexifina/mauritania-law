@@ -1,0 +1,7 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie 15 mai 2022………………………..1509
+- Soit d’un arbitrage du Centre de Médiation et d’Arbitrage de la Chambre de Commerce, d’Agriculture et d’Industrie de Mauritanie ou du Centre International pour les Règlements des Différends relatifs aux Investissements (CIRDI), créé par «la Convention pour le Règlement des Différends relatifs aux Investissements» entre Etat et ressortissants d’autres Etats du 18 mars 1965, ratifiée par la Mauritanie.
+Article 21: Arbitrage En cas de constatation d’une décision du Guichet Unique, l’Investisseur peut introduire un recours auprès des juridictions mauritaniennes statuant par voie de référé ou en urgence, ou par commun accord des parties et sous réserve du droit en vigueur, soumettre le litige à une procédure arbitrale conformément à l’article 20 précédent.
+Article 22: Avenant La présente convention peut être modifiée par voie d’avenant à la demande de l’une des parties.
+Fait à Nouakchott, le 08 Décembre 2021 Pour le Gouvernement de la République Islamique de Mauritanie Le Ministre des Affaires Economiques et de la Promotion des Secteurs Productifs Ousmane Mamoudou KANE Le Ministre des Finances Mohamed Lemine ould DHEHBY La Ministre du Commerce, de l’Industrie, de l’Artisanat et du Tourisme Naha Mint Hamdi Ould Mouknass Pour la Société ENAZAHA POUR LE COMMERCE GENERAL & LES PRESTATIONS DE SERVICES- Sarl Le Directeur Général Mohamed EL MOUHAB
