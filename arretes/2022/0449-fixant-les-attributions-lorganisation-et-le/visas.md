@@ -1,0 +1,4 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie 30 mai 2022………………………..1510 ------------------ Arrêté n°0449 du 12 mai 2022 fixant les attributions, l’organisation et le fonctionnement de la Structure d’appui des Partenariats Public-Privé (Partenariats Public-Privé) I. Dispositions générales Article Premier : La Structure d’appui des Partenariats Public-Privé créée par l’article 07 de la loi n°2017-006 du 01er février 2017 modifiée et complétée par la loi n°2021-006 du 19 février 2021, est la Direction des Partenariats Public-Privé (PPP) de la Direction Générale des Partenariats Public Privé du Ministère des Affaires Économiques et de la Promotion des Secteurs Productifs.
+Le Responsable de la Structure d’appui est le Directeur de la Direction des Partenariats Public-Privé.
