@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Nouakchott, le12 décembre 2022 Le Président de la République Mohamed OULD CHEIKH El GHAZOUANI Le Premier Ministre Mohamed OULD BILAL MESSOUD Le Ministre du Pétrole, des Mines et de l’Energie Abdessalam OULD MOHAMED SALEH II- DECRETS, ARRETES, DECISIONS, CIRCULAIRES Premier Ministère Actes Réglementaires Décret n°193-2022 du 23 novembre 2022 portantComposition, attributions et règles de fonctionnement du Conseil d’analyse stratégique Article Premier : Le Conseil d’analyse stratégique, institué par l’article 21 du décret n°195 – 2020 du 06 novembre 2020 modifié par le décret n° 029-2021 du 09
