@@ -1,0 +1,8 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie 30 Juillet 2023…………….……..1538 par arrêté du ministre de l’Equipement et des Transports, notamment en ce qui concerne la définition des tâches au niveau des services et divisions et l’organisation des divisions en bureaux et sections.
+Article 62: Il est institué au sein du Ministère de l’Equipement et des Transports, un Conseil de Direction chargé du suivi de l’état d’avancement des actions du département. Ce Conseil de Direction est présidé par le Ministre ou par délégation, par le Secrétaire Général.
+Il regroupe le Secrétaire Général, les Chargés de Mission, les Conseillers Techniques et les Directeurs Centraux et se réunit une fois tous les quinze jours. Il est élargi aux Responsables des organismes relevant du Ministère une fois par trimestre.
+Article 63: Sont abrogées toutes dispositions antérieures contraires au présent Décret, notamment le décret N°063 -2021 du 03 Mai 2021 fixant les attributions du Ministre de l’Equipement et des Transports et l’organisation de l’administration centrale de son Département.
+Article 64: Le Ministre de l’Equipement et des Transports est chargé de l’exécution du présent décret qui sera publié au Journal Officiel de la République Islamique de Mauritanie.
+Le Premier Ministre Mohamed Ould BILAL MESSOUD Le Ministre de l’Equipement et des Transports Nani CHROUGHA Ministère de l’Action Sociale, de l’Enfance et de la Famille Actes Réglementaires Décret n°2023-085 du juin 2023 portant création, organisation et fonctionnement d’un établissement public à caractère administratif dénommé « Centre de Formation pour l’Autonomisation des Femmes» CHAPITRE I : DES DISPOSITIONS GÉNÉRALES
