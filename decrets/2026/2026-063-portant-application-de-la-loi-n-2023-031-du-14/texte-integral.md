@@ -1,0 +1,16 @@
+# Décret n° 2026-063 du 22 avril 2026 portant application de la loi n° 2023-031 du 14 décembre 2023 relative à la gestion des déchets solides
+
+Journal Officiel de la République lslamique de Mauritanie 30 Avril 2026 ....................... 1604 Ministere de l'Environnement et du Développement Durable Actes Réglemeotaires Décret 0°2026-063 du 22 avril 2026/pm/ portaot applicatioo de la loi oº 2023-031 du 14 décembre 2023 relative à la gestioo des déchets solides Journal Officiel de la République lslamique de Mauritanie 30 Avril 2026 ....................... 1604 refuse de procéder à la remise en état du site, l' autorité de tutelle compétente effectue d'office et aux frais de l'exploitant les travaux nécessaires à la réhabilitation du site.
+Article 58 : Tout terrain qui a été utilisé comme lieu de décharge des déchets et qui est désaffecté ne peut être utilisé à des fins de construction sans autorisation, préalable du ministre en charge de l' environnement.
+Chapitre IV : Mesures financieres et répression des infractions.
+Article 59 : La collecte, le transport, le stockage et l 'élimination des déchets ou tout autres services se rapportant à la gestion des déchets ménagers et assimilés, donnent lieu à la perception d'impôts, de taxes et de redevances dont la nomenclature et le montant sont fixés par la réglementation en vigueur.
+Article 60 : Les mesures incitatives sont octroyées par l'Etat pour encourager le développement des activités de collecte, de tri, de transport, de valorisation et d'élimination des déchets selon des modalités qui sont fixées par la reglementation.
+Article 61 : Au cas ou les déchets sont abandonnés, déposés ou traités contrairement aux prescriptions prévues par la loi nº2023-031/P. RI du 14 décembre 2023 relative à la gestion des déchets solides, et par le présent décret, la juridiction compétente peut, apres mise en demeure du contrevenant, ordonné d'assurer d'office l'élimination desdits déchets à la charge de celui-ci.
+Article Toute infraction aux dispositions du présent décret est sanctionnée par des amendes.
+Ces amendes sont fixées comme suit • Est passible d'une amende de deux mille (2 000 MRU) à huit mille (8 000 MRU) toute personne qui dépose des déchets hors des bacs ou points de collecte autorisés ;
+• Est passible d'une amende de dix mille (10 000 MRU) à cinquante mille (50 000 MRU) toute personne qui abandonne ou dépose des déchets solides dans des lieux non autorisés;
+• Est passible d'une amende de quatre-vingt mille (80 000 MRU) à cent mille (100 000 MRU) toute personne qui exploite une installation de traitement ou d'élimination des déchets sans autorisation ;
+• Est passible d'une amende d'un cent mille (100 000 MRU) à cinq cent mille (500 MRU) toute personne qui déverse des déchets dangereux ou toxiques en violation des normes en vigueur.
+Article 63 : Sont abrogées toutes les dispositions antérieures contraires au présent décret.
+Article La Ministre de l'Environnement et du Développement Durable est chargée de l'exécution du présent décret, qui sera publié au Joumal Officiel de la République Islamique de Mauritanie.
+Le Premier Ministre El Moctar OULD DJAY La Ministre de l'Environnement et du Développement Durable Messouda Babam MOHAMED LAGHDAF ******************** Nº
