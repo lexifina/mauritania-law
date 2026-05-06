@@ -1,0 +1,3 @@
+# Visas
+
+Journal Officiel de la République Islamique de Mauritanie 15 Mai 2026 ....................... 1605 Le Premier Ministre El Moctar OUL DJAY Le Ministre de la Santé Mohamed Mahmoud ELY MAHMOUD Le Ministre des Affaires Economiques et du Développement, le Ministre des Finances par intérim Abdallah Souleymane CHEIKLH SIDIA Ministère de la Pêche et des Infrastructures Maritimes et Portuaires Actes Réglementaires Décret 0°102-2026 du 06 mai 2026 portant modification de certaines dispositions du décret 0°192-2024 du 07 octobre 2024 fixant les attributions du Ministre de la Pêche, des Infrastructures Maritimes et Portuaires et l'organisation de l'administration centrale de son département
