@@ -1,0 +1,11 @@
+{
+  "path": "mr",
+  "code": "MR",
+  "name": "Mauritania",
+  "level": "country",
+  "repo": "https://github.com/lexifina/mauritania-law",
+  "build": "Constitution (1991, as revised to 2017), Code pénal (1983), Code de commerce (2000, as amended 2015) and Code du travail (2004), French text (4 acts)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 4
+}

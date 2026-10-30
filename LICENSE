@@ -1,0 +1,21 @@
+The legal text is the Constitution de la République islamique de Mauritanie, promulguée par l'ordonnance n° 91-022
+du 20 juillet 1991, rétablie et modifiée par la loi constitutionnelle n° 2006-014 du 12 juillet 2006, révisée par la loi
+constitutionnelle n° 2012-015 du 20 avril 2012 et les lois constitutionnelles référendaires n° 2017-021 et n° 2017-022
+du 15 août 2017, as consolidated and published by the Ministère des Finances (Mauritanie)
+(https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/Textes/TXT%20GL/Constitution%20de%20la%20RIM.pdf),
+retrieved 29 October 2026. The PDF states no licence.
+
+The Code pénal (ordonnance n° 83-162 du 9 juillet 1983 portant institution d'un Code pénal, Journal officiel n° 608-609 du 29 février 1984) is copied from the text republished by WIPO Lex (https://www.wipo.int/wipolex/edocs/lexdocs/laws/fr/mr/mr004fr.pdf), retrieved 30 October 2026. The PDF states no licence.
+
+The Code de commerce (loi n° 2000-05 du 18 janvier 2000, telle que modifiée par la loi n° 2015-32 du 10 septembre 2015) is copied from the consolidated text republished by WIPO Lex (https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/mr/mr028fr.pdf), retrieved 30 October 2026. The PDF states no licence.
+
+The Code du travail (loi n° 2004-017 du 6 juillet 2004 portant Code du travail) is copied from the text published by the Ministère des Finances (Mauritanie) (https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202004-017%20C%20Trav.pdf), retrieved 30 October 2026. The PDF states no licence.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; headings, page numbers and footnote markers were left out; and the
+versions were arranged as git commits credited to the publisher. The wording of the law was not changed. The
+publisher does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

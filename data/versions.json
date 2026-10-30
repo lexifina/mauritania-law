@@ -1,0 +1,61 @@
+{
+ "country": "MR",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République islamique de Mauritanie (1991, révisée jusqu'en 2017)",
+   "url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/Textes/TXT%20GL/Constitution%20de%20la%20RIM.pdf",
+   "versions": [
+    {
+     "from": "2017-08-15",
+     "units": 103,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/Textes/TXT%20GL/Constitution%20de%20la%20RIM.pdf",
+     "sha256": "0524cfa57358eb06a1acac4f489417c76a2ea99c1a2b2a7725d4aeb319a4a0de"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Code pénal (ordonnance n° 83-162 du 9 juillet 1983 portant institution d'un Code pénal)",
+   "url": "https://www.wipo.int/wipolex/edocs/lexdocs/laws/fr/mr/mr004fr.pdf",
+   "versions": [
+    {
+     "from": "1984-02-29",
+     "units": 451,
+     "source_url": "https://www.wipo.int/wipolex/edocs/lexdocs/laws/fr/mr/mr004fr.pdf",
+     "sha256": "62d5fad4284217498f144acc0b88a2143c5385aaa8b82d1a1fe8f72aafc9530f"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-commerce",
+   "short": "Code de commerce",
+   "title": "Code de commerce (loi n° 2000-05 du 18 janvier 2000, telle que modifiée par la loi n° 2015-32 du 10 septembre 2015)",
+   "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/mr/mr028fr.pdf",
+   "versions": [
+    {
+     "from": "2015-11-30",
+     "units": 1546,
+     "source_url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/mr/mr028fr.pdf",
+     "sha256": "a41974ce0423b6f63ee0f740b0169286880c51dd7e399a00ef7fd75737573197"
+    }
+   ]
+  },
+  {
+   "slug": "code-du-travail",
+   "short": "Code du travail",
+   "title": "Code du travail (loi n° 2004-017 du 6 juillet 2004 portant Code du travail)",
+   "url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202004-017%20C%20Trav.pdf",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 452,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202004-017%20C%20Trav.pdf",
+     "sha256": "1ffa330d486179d46767cfa67c56045b5c96d96afbc6e1b2f989ef38bc94ccec"
+    }
+   ]
+  }
+ ]
+}
