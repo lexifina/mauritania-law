@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "20-code-penal.json": {
+   "acts": [
+    "code-penal"
+   ],
+   "sha256": "6e38132f54a181c70c1165cef076155bbe522a95a1497ef979a2dd9b581d8037"
+  },
+  "30-code-de-commerce.json": {
+   "acts": [
+    "code-de-commerce"
+   ],
+   "sha256": "c0a1aa04d351a57b5fffdee4855394069fc7447b7dcf8a3bf050eae3c3f403bc"
+  },
+  "40-code-du-travail.json": {
+   "acts": [
+    "code-du-travail"
+   ],
+   "sha256": "2564d8f6ec206e9c23fdec2f745a0861265becb4bf1712894f79170d1beff4bc"
+  }
+ },
+ "schema": 1
+}
