@@ -56,6 +56,50 @@
      "sha256": "1ffa330d486179d46767cfa67c56045b5c96d96afbc6e1b2f989ef38bc94ccec"
     }
    ]
+  },
+  {
+   "slug": "statut-general-fonctionnaires",
+   "short": "Statut général des fonctionnaires",
+   "title": "Statut général des fonctionnaires et agents contractuels de l'Etat (loi n° 93-09 du 18 janvier 1993, modifiée)",
+   "url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%2093-09%20SGFP.pdf",
+   "versions": [
+    {
+     "from": "1993-01-18",
+     "units": 134,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%2093-09%20SGFP.pdf",
+     "sha256": "3355405b17735142c1e5aedcc2b76881795f762924839151ac3a3ee1784c5eb1"
+    },
+    {
+     "from": "2010-02-22",
+     "units": 134,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202010-025%20modif%20loi%2093-09.pdf",
+     "sha256": "04789c214cdd5902bd4fc9b6651cc2354354ec2d88dc05f14227520ce9289e36"
+    },
+    {
+     "from": "2011-10-25",
+     "units": 134,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202011-043%20modif%20loi%2093-009.pdf",
+     "sha256": "b0f651d28aea46131b6a651643183adf1a4d33e36907c769529366b9371bf241"
+    },
+    {
+     "from": "2015-08-26",
+     "units": 134,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202015-024%20modif%20loi%2093-09.pdf",
+     "sha256": "b3a5fe7b474102655b3d83a1a059c0ce75e274fd7574fd1768ed5e705197f1f0"
+    },
+    {
+     "from": "2020-08-06",
+     "units": 134,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202020-020%20modif%20loi%2093-009%20SGFP%20fr.pdf",
+     "sha256": "bed3c285ec3d6b318ae30ac7bdd61416adb39e5f69d05ada505c38b02e029fce"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 134,
+     "source_url": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/EMPLOI/Loi%202021-010%20modif%20loi%2039-009%20SGFP%20fr.pdf",
+     "sha256": "ca986a8b8041d10bed161665d72e28a3ec833291c16dbdb63122ed788a64b46d"
+    }
+   ]
   }
  ]
 }

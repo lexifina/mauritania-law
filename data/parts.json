@@ -17,6 +17,12 @@
     "code-du-travail"
    ],
    "sha256": "2564d8f6ec206e9c23fdec2f745a0861265becb4bf1712894f79170d1beff4bc"
+  },
+  "50-statut-general-fonctionnaires.json": {
+   "acts": [
+    "statut-general-fonctionnaires"
+   ],
+   "sha256": "926ddeda7d84b0941caa2e64982681a6777c65dff4b2881ee264237c5d6353bc"
   }
  },
  "schema": 1
