@@ -63,6 +63,7 @@ Chaque version est attribuée à la loi qui l’a opérée (`Loi n° 2021-010 <l
 - Chaque texte provient de la couche texte d’un PDF ; le Code du travail a été vérifié paragraphe par paragraphe par rapport à son PDF, et les six PDF du statut (40 pages) ne comportent aucune page constituée uniquement d’images.
 - Un même corpus donne toujours les mêmes empreintes de commit : une seconde construction dans un dossier vide a donné des empreintes identiques, et `REPRODUCE.md` donne l’empreinte sha256 du corpus et les empreintes de blob des scripts de construction.
 - L’historique ne fait que s’allonger : aucun commit de fusion, aucun commit daté après la construction, et les trailers de chaque commit sont analysables.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -86,6 +87,10 @@ Voir [`LICENSE`](LICENSE). Le texte juridique est copié des PDF officiels qui y
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction ; les scripts ont été écrits par des modèles d’IA, Claude Code et Codex (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 

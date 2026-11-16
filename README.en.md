@@ -63,6 +63,7 @@ Each version is credited to the law that made it (`Loi n° 2021-010 <loi-2021-01
 - Every text comes from a PDF's text layer; the Code du travail was checked paragraph by paragraph against its PDF, and the statute's six PDFs (40 pages) have no image-only pages.
 - The same corpus always gives the same commit hashes: a second build into an empty folder gave identical ones, and `REPRODUCE.md` gives the corpus's sha256 and the builders' blob hashes.
 - History is append-only: no merge commits, no commit dated after the build, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -84,6 +85,10 @@ Each version is credited to the law that made it (`Loi n° 2021-010 <loi-2021-01
 See [`LICENSE`](LICENSE). The legal text is copied from the official PDFs it names, none of which states a licence; the wording of the law is not changed, and the publishers do not endorse this repository. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by AI models, Claude Code and Codex (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
