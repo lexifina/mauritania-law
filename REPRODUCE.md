@@ -98,3 +98,25 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Codex wrote the deterministic parser and selected the official source; it did not write or alter legal wording.
+
+## Runner, 2026-11-27
+
+From 2026-11-27 the repository is extended by a runner (`scripts/mauritania-law/runner/mr_build.py` in Lexifina's
+working tree), not by `tools/build.py`. It appends commits to `main` and never rewrites history.
+
+- Layout: one pure-rename commit moved `code-penal/`, `code-de-commerce/`, `code-du-travail/` into `codes/` and
+  `statut-general-fonctionnaires/` to `lois/1993/93-09-statut-general-des-fonctionnaires/`; see `STRUCTURE.md`.
+- Sources: the Ministry of Finance's Recueil des textes (8 listing pages, one official PDF per text, title, number and
+  date from the listing or page 1) and FAOLEX records for Mauritania (URLs from FAOLEX's public sitemaps; title and
+  `date_of_text` from the record, PDF from faolex.fao.org/docs/pdf/). WIPO Lex records were tried; most are scans or
+  Droit-Afrique copies without a number in the title and were left out.
+- Text: only PDFs with a text layer are taken (at least 250 characters a page, at least 85% of tokens ordinary words);
+  no OCR of our own. Layers laid over scans by the publisher are tagged `Text-source: publisher OCR`.
+- Dates: the date in the text's title (promulgation/signature), noon Africa/Nouakchott; the sources do not give the
+  Journal officiel date. Before 1970: 1 January 1970, the real day in the subject and `In-force`.
+- Duplicates: one text per kind and number (`2018-039` = `2018-39`; `157-2007` = `2007-157`); arrêtés per number and
+  year. Texts already in the repository are not taken again. Individual nominations are not taken.
+- Not used: msgg.gov.mr (Journal officiel and Codes usuels): its legal notice forbids reproduction without prior
+  express authorisation. manshurat.org answers 403 and was not tried further. justice.gov.mr timed out.
+- Rate: one request at a time per host, at least 1 s apart; backing off on 429/5xx.
+- Results at this update: 752 texts taken, 505 held (scans without a text layer, unparsed titles, duplicates).
