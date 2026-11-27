@@ -1910,6 +1910,39 @@
    "title": "Statut général des fonctionnaires et agents contractuels de l'Etat (loi n° 93-09 du 18 janvier 1993, modifiée jusqu'en 2021)"
   },
   {
+   "id": "lois/1996/96-001-portant-loi-de-finances-pour-lannee-1996",
+   "kind": "loi",
+   "number": "96-001",
+   "date": "1996-01-11",
+   "title": "Loi n° 96-001 du 11 janvier 1996 portant loi de finances pour l’année 1996",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%2096-001%20loi%20de%20finances%20pour%201996.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%2096-001%20loi%20de%20finances%20pour%201996.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 30
+  },
+  {
+   "id": "lois/1997/97-001-portant-loi-de-finances-pour-lannee-1997",
+   "kind": "loi",
+   "number": "97-001",
+   "date": "1997-01-14",
+   "title": "Loi n° 97-001 du 14 janvier 1997 portant loi de finances pour l’année 1997",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%2097-001%20loi%20de%20finances%20pour%201997.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%2097-001%20loi%20de%20finances%20pour%201997.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "lois/1997/97-036-portant-loi-de-finances-pour-lannee-1998",
+   "kind": "loi",
+   "number": "97-036",
+   "date": "1997-12-07",
+   "title": "Loi n° 97-036 du 7 décembre 1997 portant loi de finances pour l’année 1998",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%2097-036%20loi%20de%20finances%20pour%201998.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%2097-036%20loi%20de%20finances%20pour%201998.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
    "id": "lois/2000/2000-041-fixant-le-regime-de-pension-de-retraite-des",
    "kind": "loi",
    "number": "2000-041",
@@ -1919,6 +1952,17 @@
    "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/Textes/PENSIONS/Loi%202000-041%20retraite%20parlementaires%20et%20caisse.pdf",
    "text_layer": "born-digital",
    "articles": 1
+  },
+  {
+   "id": "lois/2009/2009-001-portant-loi-de-finances-pour-lannee-2009",
+   "kind": "loi",
+   "number": "2009-001",
+   "date": "2009-01-20",
+   "title": "Loi n° 2009-001 du 20 janvier 2009 portant loi de finances pour l’année 2009",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202009-001%20loi%20de%20finances%20pour%202009.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202009-001%20loi%20de%20finances%20pour%202009.pdf",
+   "text_layer": "born-digital",
+   "articles": 8
   },
   {
    "id": "lois/2009/2009-027-portant-modification-de-certaines-dispositions-de",
@@ -1965,6 +2009,28 @@
    "articles": 2
   },
   {
+   "id": "lois/2014/2014-002-portant-loi-de-finances-initiale-pour-lannee-2014",
+   "kind": "loi",
+   "number": "2014-002",
+   "date": "2014-04-08",
+   "title": "Loi n° 2014-002 du 8 avril 2014 portant loi de finances initiale pour l’année 2014",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202014-002%20LFI%20pour%202014.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202014-002%20LFI%20pour%202014.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
+   "id": "lois/2015/2015-003-portant-loi-de-finances-initiale-pour-lannee-2015",
+   "kind": "loi",
+   "number": "2015-003",
+   "date": "2015-01-22",
+   "title": "Loi n° 2015-003 du 22 janvier 2015 portant loi de finances initiale pour l’année 2015",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202015-003%20LFI%20pour%202015.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202015-003%20LFI%20pour%202015.pdf",
+   "text_layer": "born-digital",
+   "articles": 10
+  },
+  {
    "id": "lois/2017/2017-035-abrogeant-et-remplacant-la-loi-n-66-145-du-21",
    "kind": "loi",
    "number": "2017-035",
@@ -2007,6 +2073,28 @@
    "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/TEXTES/BUDGET/Loi%202019-018%20CGI%20fr.pdf",
    "text_layer": "born-digital",
    "articles": 398
+  },
+  {
+   "id": "lois/2020/2020-001-portant-loi-de-finances-pour-lannee-2020",
+   "kind": "loi",
+   "number": "2020-001",
+   "date": "2020-01-10",
+   "title": "Loi n° 2020-001 du 10 janvier 2020 portant loi de finances pour l’année 2020",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202020-001%20LFI%202020%20fr.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202020-001%20LFI%202020%20fr.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "lois/2021/2021-001-portant-loi-de-finances-pour-lannee-2021",
+   "kind": "loi",
+   "number": "2021-001",
+   "date": "2021-01-08",
+   "title": "Loi n° 2021-001 du 8 janvier 2021 portant loi de finances pour l’année 2021",
+   "source": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202021-001%20LFI%20fr.pdf",
+   "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFI/Loi%202021-001%20LFI%20fr.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
   },
   {
    "id": "ordonnances/1978/27-portant-suspension-des-dispositions-de-larticle",
