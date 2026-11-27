@@ -11,7 +11,7 @@ The law of Mauritania as a git history: one file per article, one commit per ver
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Mauritania's national law, which global-law reads at `mauritania/national/acts/`.
 
-**What is in it now:** the Constitution (1991, as revised to 2017), the Code pénal, the Code de commerce, the Code du travail, the civil-service statute (six versions) and 752 other texts, each in the oldest version available: 137 laws (including the finance laws since 1959), 30 ordinances, 361 decrees and 224 orders. [`corpus.json`](corpus.json) lists them with their dates and sources; [`STRUCTURE.md`](STRUCTURE.md) describes the layout.
+**What is in it now:** the Constitution (1991, as revised to 2017), the Code pénal, the Code de commerce, the Code du travail, the civil-service statute (six versions) and 853 other texts, each in the oldest version available: 166 laws (including the finance laws since 1959), 32 ordinances, 402 decrees, 252 orders and 1 decisions of the regulatory authority; 12 texts also carry their official Arabic text (`<act>/ar/`). [`corpus.json`](corpus.json) lists them with their dates and sources; [`STRUCTURE.md`](STRUCTURE.md) describes the layout.
 
 Each act is a folder, filed by kind and year (`codes/<code>/`, `lois/<année>/<numéro>-<objet>/`, `ordonnances/`, `decrets/`, `arretes/`), with one file per article, `art-NNN.md` (`lois/1993/93-09-statut-general-des-fonctionnaires/art-002.md` is Article 2 of the civil-service statute, loi n° 93-09); each folder's `README.md` lists its articles and when each last changed.
 
@@ -81,6 +81,9 @@ Each version is credited to the law that made it (`Loi n° 2021-010 <loi-2021-01
 | [Ministère des Finances](https://finances.gov.mr) | Official texts published by the Ministry, PDFs with a text layer | the Constitution as consolidated; each law as enacted | The Constitution, the Code du travail, and the civil-service statute with its five amending laws |
 | [Ministère des Finances, Recueil des textes](https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/) | Official PDFs, one per text | each text as published | 270 laws, decrees and orders (budget, finance laws, pensions, allowances, civil service) |
 | [FAOLEX](https://www.fao.org/faolex/) (FAO) | Secondary copies of official texts, PDFs with a text layer | each text as published | 482 texts (land, water, fisheries, mining, environment, health…); `Source-status: secondary copy` trailer |
+| [Ministère des Finances, Lois / Décrets / Arrêtés pages](https://www.finances.gov.mr/fr/Lois) | Official PDFs, French and Arabic | each text as published | finance laws, organic budget law, budget and accounting decrees and orders; bills left out |
+| [Autorité de Régulation](https://www.are.mr) | Official PDFs of its reference texts (telecoms, electricity, water, post) | each text as published | laws, decrees, regulatory orders and CNR decisions; licences, specifications and sanctions left out; recent scans without a text layer left out |
+| [Cour suprême](https://coursupreme.mr), [Présidence](https://www.presidence.mr), [Primature](https://www.primature.gov.mr), [Fonction publique](https://www.fonctionpublique.gov.mr) and other ministries | Official PDFs, mostly Arabic | each text as published | Arabic texts (`ar/`) and texts not available in French; unreadable Arabic text layers left out |
 | [WIPO Lex](https://www.wipo.int/wipolex/) | Official texts republished by WIPO, PDFs with a text layer | one text each | The Code pénal as published (MR004) and the Code de commerce as amended in 2015 (MR028) |
 
 ## Licence

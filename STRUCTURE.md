@@ -8,11 +8,14 @@
 | `ordonnances/<année>/<numéro>-<objet>/` | Les ordonnances, p. ex. `ordonnances/1983/83-127-portant-reorganisation-fonciere-et-domaniale/` |
 | `decrets/<année>/<numéro>-<objet>/` | Les décrets |
 | `arretes/<année>/<numéro>-<objet>/` | Les arrêtés (ministériels, interministériels, conjoints) |
+| `decisions/<année>/<numéro>-<objet>/` | Les décisions réglementaires de l'Autorité de Régulation (CNR) |
 
 Chaque dossier de texte contient un fichier par article (`art-001.md` est l'article premier, `art-012-bis.md`
 l'article 12 bis), `visas.md` (les visas), `signatures.md` (la formule finale et les signatures), et un `README.md`
 qui donne la source, la date retenue et la nature de la couche texte. Un texte où aucun article n'est repéré est
 conservé en un seul fichier, `texte-integral.md`. Aucun dossier ne contient plus de 1 000 entrées.
+
+Le texte arabe officiel d'un texte, quand il est publié avec une couche texte lisible, est dans `<texte>/ar/` (même découpage : `art-NNN.md`, `visas.md`, `README.md`) ; un texte connu seulement en arabe a son dossier nommé par nature, année et numéro, avec le texte dans `ar/`.
 
 ## Dates
 

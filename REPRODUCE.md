@@ -120,3 +120,25 @@ working tree), not by `tools/build.py`. It appends commits to `main` and never r
   express authorisation. manshurat.org answers 403 and was not tried further. justice.gov.mr timed out.
 - Rate: one request at a time per host, at least 1 s apart; backing off on 429/5xx.
 - Results at this update: 752 texts taken, 505 held (scans without a text layer, unparsed titles, duplicates).
+
+## Second pass, 2026-11-27
+
+A second runner (`mr_extra.py`, same working tree) added texts from more official sites and the official Arabic text
+of acts:
+
+- Sources: the Ministry of Finance's Lois / Décrets / Arrêtés et décisions pages (French and Arabic; bills, i.e.
+  "projet de loi" / "مشروع", left out), the Autorité de Régulation's reference texts (licence awards and renewals,
+  cahiers des charges, sanctions and other measures addressed to one operator left out), Arabic texts from the Cour
+  suprême's document library, the Présidence, the Primature and other ministries. The Ministry of the Civil Service's
+  listings were read too, but most of their PDF links answer 404.
+- First-pass items held for a title the parser could not read were tried again: when the title has no date of its own
+  (a date in it belongs to a text it amends), the FAOLEX `date_of_text` is used, and held if the year in the number
+  disagrees with it. Form rules (`____`) and bullets no longer count as noise in the text-layer check.
+- Arabic: an Arabic text whose French text is already here is filed as its language version in `<act>/ar/`, with
+  `Language: ar` and `Kind: language-version`; otherwise the act is filed under the usual folder with its text in `ar/`.
+  Kind, number and date come from the title (قانون، قانون نظامي، أمر قانوني، مرسوم، مقرر ... رقم ... بتاريخ ...), else from
+  the head of the text (a kind cited in a visa is skipped) or the signature line; held when the year in the number
+  disagrees with the date. Arabic text layers are taken only when readable (common function words at least 6% of
+  tokens, stray vowel marks or glyph-index digits under 3%); PDFs whose fonts map Arabic letters to wrong code points
+  are held. No OCR.
+- Results at this update: 101 new acts and 12 Arabic texts; 568 items held.
