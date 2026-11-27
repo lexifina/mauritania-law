@@ -7261,6 +7261,18 @@
    "articles": 0
   },
   {
+   "id": "lois/1964/64-098",
+   "kind": "loi",
+   "number": "64-098",
+   "date": "1964-06-09",
+   "title": "القانون رقم64 - 098 بتاريخ9 يونيو1964 يتعلق بالجمعيات الفصل الأول",
+   "source": "https://coursupreme.mr/docs/loiongsmauritanie-ar.pdf",
+   "record": "https://coursupreme.mr/docs/loiongsmauritanie-ar.pdf",
+   "text_layer": "born-digital",
+   "articles": 29,
+   "language": "ar"
+  },
+  {
    "id": "lois/1964/64-109-portant-ouverture-de-credits-supplementaires-au",
    "kind": "loi",
    "number": "64-109",
@@ -7624,10 +7636,34 @@
    "articles": 2
   },
   {
+   "id": "lois/1993/93-040",
+   "kind": "loi",
+   "number": "93-040",
+   "date": "1993-07-20",
+   "title": "القانون رقم 93.040 الصادر بتاريخ20 يوليو1993، المتضمن مدونة التأمينات . ويستدعي هذا الإطار التشريعي اليوم التكييف مع متطلبات المناخ الاقتصادي والقانوني الجديد لضمان تطبيق أمثل لأ حكامه . و راد منه  يليست للتعديلات المقترحة نفس الأهمية، فبعضها يسعى إلى معالجة تفاصيل فنية، وبعض إعادة تحديد دور لجنة ",
+   "source": "https://coursupreme.mr/docs/code-assurance-ar.pdf",
+   "record": "https://coursupreme.mr/docs/code-assurance-ar.pdf",
+   "text_layer": "born-digital",
+   "articles": 2,
+   "language": "ar"
+  },
+  {
    "id": "lois/1993/93-09-statut-general-des-fonctionnaires",
    "kind": "loi",
    "date": "1993-01-18",
    "title": "Statut général des fonctionnaires et agents contractuels de l'Etat (loi n° 93-09 du 18 janvier 1993, modifiée jusqu'en 2021)"
+  },
+  {
+   "id": "lois/1994/012-94",
+   "kind": "loi",
+   "number": "012-94",
+   "date": "1994-02-17",
+   "title": "قانون نظامي رقم 012 - 94 يتضمن النظام الأساسي للقضاء يتضمن النظام الأساسي للقضاء يتضمن النظام الأساسي للقضاء يتضمن النظام الأساسي للقضاء المعدل المعدل المعدل المعدل بالأمر القانوني رقم بالأمر القانوني رقم بالأمر القانوني رقم بالأمر القانوني رقم 2006 - 016 الصادر بتاريخ الصادر بتاريخ الصادر بتاريخ ال",
+   "source": "https://coursupreme.mr/docs/statutmagistrarab.pdf",
+   "record": "https://coursupreme.mr/docs/statutmagistrarab.pdf",
+   "text_layer": "born-digital",
+   "articles": 64,
+   "language": "ar"
   },
   {
    "id": "lois/1995/95-009-portant-code-de-la-marine-marchande",
@@ -7749,6 +7785,18 @@
    "record": "https://finances.gov.mr/Recueil_des_textes_relatifs_a_la_mission_du_Ministere/LF/TEXTES/LFR/Loi%2098-019%20rectif%20LFI%201998.pdf",
    "text_layer": "born-digital",
    "articles": 1
+  },
+  {
+   "id": "lois/1999/99-042",
+   "kind": "loi",
+   "number": "99-042",
+   "date": "1999-08-08",
+   "title": "القانون رقم99 - 042 صادر بتاريخ8 أغسطس1999 الن ظم للإيجار المالي بعد مصادقة الجمعية الوطنية ومجلس الشيوخ",
+   "source": "https://coursupreme.mr/docs/3creditbail.pdf",
+   "record": "https://coursupreme.mr/docs/3creditbail.pdf",
+   "text_layer": "born-digital",
+   "articles": 25,
+   "language": "ar"
   },
   {
    "id": "lois/1999/99-13-portant-code-minier",
@@ -8134,6 +8182,18 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC136422/loi-d-orientation-n-2010-001-du-07-janvier-2010-relative-a-l-mrt-2010",
    "text_layer": "publisher-ocr",
    "articles": 14
+  },
+  {
+   "id": "lois/2011/2011-003",
+   "kind": "loi",
+   "number": "2011-003",
+   "date": "2011-01-12",
+   "title": "قانون رقم2011 - 003 صادر بتاريخ12 يناير2011 يلغي ويحل محل القانون رقم96 - 019 الصادر بتاريخ 19 يونيو1996 المتضمن لمدونة الحالة المدنية . بعد مصادقة الجمعية الوطنية و مجلس الشيوخ",
+   "source": "https://coursupreme.mr/docs/loi0032011.pdf",
+   "record": "https://coursupreme.mr/docs/loi0032011.pdf",
+   "text_layer": "born-digital",
+   "articles": 71,
+   "language": "ar"
   },
   {
    "id": "lois/2011/2011-022-relative-a-la-prevention-et-a-la-lutte-contre-la",
@@ -8684,6 +8744,18 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC205452/loi-n-2021-008-p-r-relative-a-la-police-environnementale-mrt-2021",
    "text_layer": "born-digital",
    "articles": 30
+  },
+  {
+   "id": "lois/2021/2021-014",
+   "kind": "loi",
+   "number": "2021-014",
+   "date": "2021-07-05",
+   "title": "قانون رقم2021 - 014 يتعلق بخدمات ووسائل الدفع اإللكتروني. بعد مصادقة الجمعية الوطنية :",
+   "source": "https://mtnima.gov.mr/sites/default/files/2024-02/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%202021-014%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D9%88%20%D9%88%D8%B3%D8%A7%D8%A1%D9%84%20%D8%A7%D9%84%D8%AF%D9%81%D8%B9%20%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20%28%D8%AC.%D8%B1%201490%29.pdf",
+   "record": "https://mtnima.gov.mr/sites/default/files/2024-02/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%202021-014%20%D9%8A%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D9%88%20%D9%88%D8%B3%D8%A7%D8%A1%D9%84%20%D8%A7%D9%84%D8%AF%D9%81%D8%B9%20%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20%28%D8%AC.%D8%B1%201490%29.pdf",
+   "text_layer": "born-digital",
+   "articles": 105,
+   "language": "ar"
   },
   {
    "id": "lois/2021/2021-024-abrogeant-et-remplacant-la-loi-n-2010-044-du-22",
