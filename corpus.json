@@ -2806,6 +2806,17 @@
    "title": "Constitution de la République islamique de Mauritanie (1991, révisée jusqu'en 2017)"
   },
   {
+   "id": "decisions/2006/endate",
+   "kind": "decision",
+   "number": "endate",
+   "date": "2006-03-14",
+   "title": "Décision en date du 14 Mars 2006",
+   "source": "https://www.are.mr/pdfs/decision140306.pdf",
+   "record": "https://www.are.mr/pdfs/decision140306.pdf",
+   "text_layer": "born-digital",
+   "articles": 0
+  },
+  {
    "id": "decrets/1930/sn-1126-sur-lexpropriation-pour-cause-dutilite-publique",
    "kind": "decret",
    "number": "sn-1126",
@@ -8338,6 +8349,17 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC203257/loi-n-2013-024-du-15-juillet-2013-d-orientation-agropastoral-mrt-2013",
    "text_layer": "publisher-ocr",
    "articles": 77
+  },
+  {
+   "id": "lois/2013/2013-025-portant-sur-les-communications-electroniques",
+   "kind": "loi",
+   "number": "2013-025",
+   "date": "2013-07-15",
+   "title": "Loi n ° 2013-025 du 15 juillet 2013 portant sur les communications électroniques ;",
+   "source": "https://www.are.mr/pdfs/decision_cnr_ussd.pdf",
+   "record": "https://www.are.mr/pdfs/decision_cnr_ussd.pdf",
+   "text_layer": "born-digital",
+   "articles": 10
   },
   {
    "id": "lois/2013/2013-041-du-12-novembre-portant-creation-dune-structure",
